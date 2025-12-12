@@ -49,7 +49,19 @@ Nothing is going to break over the user interacting.
 
 # Incidents by Victim; Race, Sex and Age group
 
-[Click here to open the interactiveIncidents by Victim demographics.](https://juanito040102.github.io/NYC_Shooting_Incidents/Vic_Sex_Age_Race.html)
+[Click here to open the interactive Incidents by Victim demographics.](https://juanito040102.github.io/NYC_Shooting_Incidents/Vic_Sex_Age_Race.html)
+
+
+# Map of all incidents
+
+[Click here to open the interactive Map.](https://juanito040102.github.io/NYC_Shooting_Incidents/Map_all.html)
+
+
+
+# Map of every year's incidents
+
+[Click here to open the interactive Map which contains the records per year.](https://juanito040102.github.io/NYC_Shooting_Incidents/Map_per_year.html)
+
 
 
 
