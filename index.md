@@ -24,11 +24,11 @@ Nothing is going to break over the user interacting.
 
 # Occurrences by Hour of the Day
 
-[Click here to open the interactive Occurrances by hour.](https://juanito040102.github.io/NYC_Shooting_Incidents/Hour_of_day.html)
+[Click here to open the interactive Occurrances by hour.](https://juanito040102.github.io/NYC_Shooting_Incidents/Hour_of_Day.html)
 
 # Occurrences by month of the year
 
-[Click here to open the interactive Occurrances by Month.](https://juanito040102.github.io/NYC_Shooting_Incidents/Ocurr_by_month.html)
+[Click here to open the interactive Occurrances by Month.](https://juanito040102.github.io/NYC_Shooting_Incidents/Occur_by_month.html)
 
 
 # Heatmap with Monthly Averages
