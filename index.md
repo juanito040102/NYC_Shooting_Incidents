@@ -24,25 +24,30 @@ Nothing is going to break over the user interacting.
 
 # Occurrences by Hour of the Day
 
-[Occurr by hour](Hour_of_day.html)
+[Click here to open the interactive Occurrances by hour.](https://juanito040102.github.io/NYC_Shooting_Incidents/Hour_of_day.html)
 
 # Occurrences by month of the year
-[Occurr by Month](Ocurr_by_month.html)
+
+[Click here to open the interactive Occurrances by Month.](https://juanito040102.github.io/NYC_Shooting_Incidents/Ocurr_by_month.html)
+
 
 # Heatmap with Monthly Averages
-[Heatmap](Heatmap.html)
+[Click here to open the interactive Heatamp with monthly averages.](https://juanito040102.github.io/NYC_Shooting_Incidents/Heatmap.html)
+
 
 # Top 20 Dates with most incidents
 
-[Top 20 dates](Dates_Most_Incidents.html)
+[Click here to open the Top 20 dates with the most incidents.](https://juanito040102.github.io/NYC_Shooting_Incidents/Dates_Most_Incidents.html)
+
 
 # Incidents by borough, colored by Race of the Victim
 
-[Incidents by Borough](By_Borough_Vic_Race.html)
+[Click here to open the interactive Bar Charts Incidents by Borough.](https://juanito040102.github.io/NYC_Shooting_Incidents/By_Borough_Vic_Race.html)
+
 
 # Incidents by Victim; Race, Sex and Age group
 
-[Incidents by Victim demographics](Vic_Sex_Age_Race.html)
+[Click here to open the interactiveIncidents by Victim demographics.](https://juanito040102.github.io/NYC_Shooting_Incidents/Vic_Sex_Age_Race.html)
 
 
 
