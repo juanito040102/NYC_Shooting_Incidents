@@ -20,28 +20,29 @@ Nothing is going to break over the user interacting.
 
 # Daily Occurrences Over Time
 
-![Daily_OT](Daily_OT.html)
+[Daily_OT](Daily_OT.html)
 
 # Occurrences by Hour of the Day
 
-![Occurr by hour](Hour_of_day.html)
+[Occurr by hour](Hour_of_day.html)
 
 # Occurrences by month of the year
-![Occurr by Month](Ocurr_by_month.html)
+[Occurr by Month](Ocurr_by_month.html)
 
 # Heatmap with Monthly Averages
-![Heatmap](Heatmap.html)
+[Heatmap](Heatmap.html)
 
 # Top 20 Dates with most incidents
-![Top 20 dates](Dates_Most_Incidents.html)
+
+[Top 20 dates](Dates_Most_Incidents.html)
 
 # Incidents by borough, colored by Race of the Victim
 
-![Incidents by Borough](By_Borough_Vic_Race.html)
+[Incidents by Borough](By_Borough_Vic_Race.html)
 
 # Incidents by Victim; Race, Sex and Age group
 
-![Incidents by Victim demographics](Vic_Sex_Age_Race.html)
+[Incidents by Victim demographics](Vic_Sex_Age_Race.html)
 
 
 
