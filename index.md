@@ -20,7 +20,7 @@ Nothing is going to break over the user interacting.
 
 # Daily Occurrences Over Time
 
-[Daily_OT](Daily_OT.html)
+[Click here to open the interactive Daily Occurrences Over Time chart.](https://juanito040102.github.io/NYC_Shooting_Incidents/Daily_OT.html)
 
 # Occurrences by Hour of the Day
 
