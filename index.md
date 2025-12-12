@@ -1,6 +1,8 @@
 ---
-layout: mapworld
+title: "NYC Shooting Incidents Analysis"
+layout: default
 ---
+
 
 # NYC SHOOTING INCIDENT DATA
 ## By Juan Zumarán
